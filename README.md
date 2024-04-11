@@ -30,3 +30,51 @@ To achieve our objectives, we will analyze Siempre Tequila’s rich customer and
 - **Ave Unit Price**: Average price per unit paid by the customer, providing an understanding of price sensitivity or premium product preference.
 
 Utilizing this comprehensive dataset, we aim to deeply understand and segment Siempre Tequila’s customer base, laying the groundwork for targeted sales strategies and marketing initiatives.
+
+## Project Steps:
+- **Imported Libraries**: Loaded Python libraries for data analysis and machine learning.
+- **EDA**: Conducted exploratory data analysis to understand data distributions.
+- **Data Cleaning**: Handled missing values and data inconsistencies.
+- **Outlier Detection**: Managed outliers to prevent skewing the analysis.
+- **Feature Selection**: Chose relevant features for clustering.
+- **Encoding & Scaling**: Prepared data through encoding and scaling.
+- **K-Means Clustering**: Segmented the customer base into distinct groups.
+- **Optimal Number of Clusters**: Determined the ideal number of clusters.
+- **Cluster Analysis**: Developed profiles for each customer segment.
+- **PCA**: Applied Principal Component Analysis for dimensionality reduction.
+- **Cluster Profiles**: Created detailed profiles based on segment characteristics.
+
+## Cluster Profiles and Strategic Insights:
+
+### Cluster 1: Low Volume Clients
+- **Purchasing Behavior:** These clients make selective purchases, typically aligned with specific events or seasons of the year. Possibly also only purchasing when special deals are offered.
+- **Client Profile:** Primarily event organizers and small restaurant owners who seek distinctive offerings to enhance their events.
+- **Strategy Insight:** Highlighting product exclusivity and offering event-centric promotions could effectively engage this segment.
+
+### Cluster 2: Niche Hospitality Venues
+- **Purchasing Behavior:** Demonstrates a preference for quality, with purchases made on a more regular basis than the first group, though still selective.
+- **Client Profile:** Includes boutique bars and specialized venues that aim to provide unique experiences to their patrons.
+- **Strategy Insight:** Providing exclusive products and marketing support can help these establishments elevate their customer experience.
+
+### Cluster 3: Volume Purchasers
+- **Purchasing Behavior:** Characterized by consistent, high-volume purchases for resale or supply to large-scale sales volumes.
+- **Client Profile:** This group consists of wholesalers, retail outlets, and major event organizers seeking reliable bulk purchasing options.
+- **Strategy Insight:** Offering volume discounts, ensuring consistent supply, and providing marketing materials can strengthen partnerships.
+
+### Cluster 4: Retail and Hospitality Chains
+- **Purchasing Behavior:** Exhibits very high purchase volumes, indicating a steady demand for business operations or corporate events.
+- **Client Profile:** Comprises large chain corporations, hospitality chains, and institutional clients with varied needs.
+- **Strategy Insight:** Tailored account management and bespoke product offerings can meet their diverse requirements and foster long-term relationships.
+
+### Cluster 5: Luxury and Premium Segment
+- **Purchasing Behavior:** Prefers premium products, focusing on quality and exclusivity to enhance their high-end service offerings.
+- **Client Profile:** Luxury hotels, upscale restaurants, and exclusive clubs seeking to offer premium experiences.
+- **Strategy Insight:** Developing exclusive product lines or experiences tailored for the luxury market can offer competitive advantages.
+
+## Conclusion:
+The segmentation enhances our understanding of the customer base, enabling targeted engagement to improve satisfaction, loyalty, and sales.
+
+## Future Directions:
+- Monitor and adapt segmentation strategies as needed.
+- Explore additional analytics techniques for deeper insights.
+- Implement insights across marketing and sales strategies.
