@@ -31,6 +31,10 @@ To achieve our objectives, we will analyze Siempre Tequila’s rich customer and
 
 Utilizing this comprehensive dataset, we aim to deeply understand and segment Siempre Tequila’s customer base, laying the groundwork for targeted sales strategies and marketing initiatives.
 
+## Disclaimer
+
+For this project, I made sure to protect the privacy of Siempre Tequila's customers and the company's intellectual property. I've either removed or made anonymous any personal information in the dataset we analyzed. The aim was to make sure we couldn't identify any customers directly and that any findings we shared didn't give away Siempre Tequila's confidential info. Keeping customer privacy and the company's intellectual property safe was a key priority throughout our analysis and in how we reported our findings.
+
 ## Project Steps:
 - **Imported Libraries**: Loaded Python libraries for data analysis and machine learning.
 - **EDA**: Conducted exploratory data analysis to understand data distributions.
@@ -71,6 +75,14 @@ Utilizing this comprehensive dataset, we aim to deeply understand and segment Si
 - **Client Profile:** Luxury hotels, upscale restaurants, and exclusive clubs seeking to offer premium experiences.
 - **Strategy Insight:** Developing exclusive product lines or experiences tailored for the luxury market can offer competitive advantages.
 
+## Technical Challenges and Solutions
+During the project, we encountered several technical challenges that required creative and effective solutions:
+
+- **Data Preprocessing Complexity**: Faced with a dataset full of missing values and outliers, I perfomed EDA and Data Cleaning techniques, ensuring a clean dataset for analysis.
+- **Determining the Optimal Number of Clusters**: The Elbow Method was instrumental in identifying the most appropriate number of clusters, balancing between too many segments and too few.
+- **High Dimensionality of Data**: Applied PCA to reduce the dataset to a more manageable size without significant loss of information, facilitating better visualization and interpretation of clusters.
+- **Integrating Domain Knowledge**: Worked closely with my colleague, Rick from Siempre Tequila to ensure that the segmentation was aligned with business goals and industry insights, making the results actionable.
+
 ## Conclusion:
 The segmentation enhances our understanding of the customer base, enabling targeted engagement to improve satisfaction, loyalty, and sales.
 
@@ -78,3 +90,4 @@ The segmentation enhances our understanding of the customer base, enabling targe
 - Monitor and adapt segmentation strategies as needed.
 - Explore additional analytics techniques for deeper insights.
 - Implement insights across marketing and sales strategies.
+
