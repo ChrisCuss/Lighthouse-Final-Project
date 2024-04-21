@@ -48,32 +48,36 @@ For this project, I made sure to protect the privacy of Siempre Tequila's custom
 - **PCA**: Applied Principal Component Analysis for dimensionality reduction.
 - **Cluster Profiles**: Created detailed profiles based on segment characteristics.
 
+## Imported Libraries
+
+(image.png)
+
 ## Cluster Profiles and Strategic Insights:
 
-### Cluster 1: Low Volume Clients
-- **Purchasing Behavior:** These clients make selective purchases, typically aligned with specific events or seasons of the year. Possibly also only purchasing when special deals are offered.
-- **Client Profile:** Primarily event organizers and small restaurant owners who seek distinctive offerings to enhance their events.
-- **Strategy Insight:** Highlighting product exclusivity and offering event-centric promotions could effectively engage this segment.
+### Cluster 0: Low Volume Clients
+- **Purchasing Behavior:** These clients typically buy less and often only during specific times like special events or when there are discounts. They're not frequent buyers and usually make smaller purchases compared to others.
+- **Client Profile:** Mostly made up of small event organizers, and owners of little shops and restaurants who are looking for unique Tequila options.
+- **Strategy Insight:** To really get this group's attention, we could roll out special offers and engaging promotions. Focusing on increasing our visibility during their slow times or off-peak hours might also help boost their purchases.
 
-### Cluster 2: Niche Hospitality Venues
-- **Purchasing Behavior:** Demonstrates a preference for quality, with purchases made on a more regular basis than the first group, though still selective.
-- **Client Profile:** Includes boutique bars and specialized venues that aim to provide unique experiences to their patrons.
-- **Strategy Insight:** Providing exclusive products and marketing support can help these establishments elevate their customer experience.
+### Cluster 1: Niche Hospitality Venues
+- **Purchasing Behavior:** This group tends to prefer quality over quantity, buying more regularly than the first group but still choosing selectively. Their purchases are generally below average, which might indicate a sensitivity to prices or a limited selection.
+- **Client Profile:** Comprised of boutique bars, especially those with a focus on Tequila or Mexican themes, and other specialized venues.
+- **Strategy Insight:** To enhance their experience and satisfaction, we could offer exclusive products and provide dedicated marketing support to these venues.
 
-### Cluster 3: Volume Purchasers
-- **Purchasing Behavior:** Characterized by consistent, high-volume purchases for resale or supply to large-scale sales volumes.
-- **Client Profile:** This group consists of wholesalers, retail outlets, and major event organizers seeking reliable bulk purchasing options.
-- **Strategy Insight:** Offering volume discounts, ensuring consistent supply, and providing marketing materials can strengthen partnerships.
+### Cluster 2: Volume Purchasers
+- **Purchasing Behavior:** This cluster shows consistent, high-volume purchasing habits, ideal for resale or supplying large events. They frequently buy a wide range of products, including high amounts of premium lines like Siempre Anejo and Siempre Exclusivo Vivo.
+- **Client Profile:** Made up of wholesalers, large retail outlets, and organizers of major events who need reliable bulk purchasing options.
+- **Strategy Insight:** Strengthening relationships with these customers can be achieved by offering volume discounts, ensuring a consistent supply, and providing tailored marketing support. Keeping supply reliable, prioritizing these customers for new launches, and recognizing their needs with discounts are key to keeping them engaged.
 
-### Cluster 4: Retail and Hospitality Chains
-- **Purchasing Behavior:** Exhibits very high purchase volumes, indicating a steady demand for business operations or corporate events.
-- **Client Profile:** Comprises large chain corporations, hospitality chains, and institutional clients with varied needs.
-- **Strategy Insight:** Tailored account management and bespoke product offerings can meet their diverse requirements and foster long-term relationships.
+### Cluster 3: Retail and Hospitality Chains
+- **Purchasing Behavior:** Characterized by extremely high purchase volumes, these clients consistently demand products for business operations and corporate events.
+- **Client Profile:** Includes large chain corporations, hospitality chains, and institutional clients, each with diverse and specific needs.
+- **Strategy Insight:** Effective strategies include tailored account management and bespoke product offerings designed to meet their varied requirements. Strengthen relationships through customized partnership plans, reliable supply chains, and exclusive business buyer programs. Additionally, consider developing unique marketing collaborations, particularly for restaurants and tasting rooms, to enhance their customer experiences.
 
-### Cluster 5: Luxury and Premium Segment
-- **Purchasing Behavior:** Prefers premium products, focusing on quality and exclusivity to enhance their high-end service offerings.
-- **Client Profile:** Luxury hotels, upscale restaurants, and exclusive clubs seeking to offer premium experiences.
-- **Strategy Insight:** Developing exclusive product lines or experiences tailored for the luxury market can offer competitive advantages.
+### Cluster 4: Luxury and Premium Segment
+- **Purchasing Behavior:** This cluster shows a strong preference for premium products, with a significant focus on quality and exclusivity. Notably high purchases of Siempre Supremo and Siempre Rebel Cask highlight their orientation towards luxury and premium offerings.
+- **Client Profile:** Composed of luxury hotels, upscale restaurants, and exclusive clubs, all dedicated to providing top-tier experiences.
+- **Strategy Insight:** To stay competitive and appealing to this segment, developing exclusive product lines or bespoke experiences tailored to the luxury market is essential. These initiatives should emphasize uniqueness and high quality, aligning with the expectations of luxury consumers.
 
 ## Technical Challenges and Solutions
 During the project, we encountered several technical challenges that required creative and effective solutions:
