@@ -52,6 +52,25 @@ Utilizing this comprehensive dataset, we aim to deeply understand and segment Si
 
 ![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/Imported%20Libraries.png?raw=true)
 
+## Feature Selection
+
+Considering the project's goal, the below features are most relevant for customer segmentation based on purchasing behavior:
+
+- **OnOff Premises**
+- **Classes of Trade**
+- **Siempre product columns (e.g., Siempre Plata, Siempre Reposado, etc.) for understanding product preferences**
+- **Total Cases**
+- **Purchases**
+- **Months Purchased**
+- **Rate of Sale: Units / Month**
+- **Ave Unit Price**
+
+## Encoding & Scaling
+
+For Encoding and Scaling, I used sklearn's StandardScaler() for the numerical features and OneHotEncoder() for the categorical features.
+
+![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/Encoding%20&%20Scaling.png?raw=true)
+
 
 
 ## Cluster Profiles and Strategic Insights:
