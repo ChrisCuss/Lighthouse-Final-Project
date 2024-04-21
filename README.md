@@ -151,6 +151,10 @@ Next, I took a look at the mean of each cluster and started creating customer pr
 
 ### % Of Customers by Cluster
 
+![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/%25%20Of%20Customers%20by%20Cluster.png?raw=true)
+
+### AVG # Months Purchased by Cluster
+
 ![Alt Text]()
 
 ## Technical Challenges and Solutions
