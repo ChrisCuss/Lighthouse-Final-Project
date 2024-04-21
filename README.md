@@ -1,6 +1,6 @@
 # Lighthouse-Final-Project
 ## Project Title:
-Customer Segmentation for Siempre Tequila Sales Enhancement
+Customer Segmentation for Tequila Sales Enhancement
 
 ## Disclaimer
 
@@ -27,7 +27,7 @@ This project was built using the following technologies:
 - **Visual Studio Code**: Preferred code editor.
 - **VIP/iDIG**: Main reporting tool for the Wine & Spirits industry in the USA.
 - **Tableau**: Tool for data visualization.
-- **Microsoft PowerPoint**: Used for creating the presentation slides.
+- **Canva**: Used for creating the presentation slides.
 
 ## Data Utilization:
 To achieve our objectives, we will analyze Siempre Tequila’s rich customer and sales data, which includes:
@@ -135,7 +135,7 @@ Next, I took a look at the mean of each cluster and started creating customer pr
 - **Client Profile:** Composed of luxury hotels, upscale restaurants, and exclusive clubs, all dedicated to providing top-tier experiences.
 - **Strategy Insight:** To stay competitive and appealing to this segment, developing exclusive product lines or bespoke experiences tailored to the luxury market is essential. These initiatives should emphasize uniqueness and high quality, aligning with the expectations of luxury consumers.
 
-## Data Vizualisation
+## Data Vizualisations
 
 ![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/%25%20of%20Total%20Sales%20by%20Cluster.png?raw=true)
 
