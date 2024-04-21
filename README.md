@@ -145,7 +145,7 @@ Next, I took a look at the mean of each cluster and started creating customer pr
 
 ![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/%25%20Of%20Customers%20by%20Cluster.png?raw=true)
 
-![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/AVG%20%23%20Months%20Purchased%20by%20Cluster.png?raw=true)
+![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/AVG%20%23%20Months%20Purchased%20by%20Cluster_2.png?raw=true)
 
 ## Technical Challenges and Solutions
 During the project, we encountered several technical challenges that required creative and effective solutions:
