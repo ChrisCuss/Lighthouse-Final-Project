@@ -50,7 +50,7 @@ For this project, I made sure to protect the privacy of Siempre Tequila's custom
 
 ## Imported Libraries
 
-(image.png)
+![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/Imported%20Libraries.png?raw=true)
 
 ## Cluster Profiles and Strategic Insights:
 
