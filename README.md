@@ -135,6 +135,16 @@ Next, I took a look at the mean of each cluster and started creating customer pr
 - **Client Profile:** Composed of luxury hotels, upscale restaurants, and exclusive clubs, all dedicated to providing top-tier experiences.
 - **Strategy Insight:** To stay competitive and appealing to this segment, developing exclusive product lines or bespoke experiences tailored to the luxury market is essential. These initiatives should emphasize uniqueness and high quality, aligning with the expectations of luxury consumers.
 
+## Data Vizualisation
+
+### % of Total Sales by Cluster
+
+[Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/%25%20of%20Total%20Sales%20by%20Cluster.png?raw=true)
+
+### Total Case Sales by Cluster
+
+
+
 ## Technical Challenges and Solutions
 During the project, we encountered several technical challenges that required creative and effective solutions:
 
