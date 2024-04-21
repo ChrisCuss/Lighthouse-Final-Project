@@ -71,7 +71,19 @@ For Encoding and Scaling, I used sklearn's StandardScaler() for the numerical fe
 
 ![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/Encoding%20&%20Scaling.png?raw=true)
 
+## K-Means Clustering
 
+### Determining the Optimal Number of Clusters
+
+By using the ''Elbow Method'', I was able to determine that the optimal amount of clusters would be 5.
+
+![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/Elbow%20Method.png?raw=true)
+
+### Running KMeans Clustering
+
+![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/Running%20KMeans%20Clustering.png?raw=true)
+
+### 
 
 ## Cluster Profiles and Strategic Insights:
 
