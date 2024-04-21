@@ -2,6 +2,10 @@
 ## Project Title:
 Customer Segmentation for Siempre Tequila Sales Enhancement
 
+## Disclaimer
+
+For this project, I made sure to protect the privacy of Siempre Tequila's customers and the company's intellectual property. I've either removed or made anonymous any personal information in the dataset we analyzed. Additionally, some of the data has been either changed or randomized to ensure further protection of Siempre's IP. The aim was to make sure we couldn't identify any customers directly and that any findings we shared didn't give away Siempre Tequila's confidential information. Maintaining the privacy of customer data and safeguarding the company's intellectual property were key priorities throughout our analysis and in how we reported our findings.
+
 ## Goal:
 The goal of this project is to boost Siempre Tequila's customer engagement and sales strategies by employing advanced machine learning to segment customers based on their purchasing behavior. By understanding distinct customer groups, we aim to enable more personalized sales approaches, enhancing customer satisfaction and loyalty, and ultimately driving sales growth.
 
@@ -31,10 +35,6 @@ To achieve our objectives, we will analyze Siempre Tequila’s rich customer and
 
 Utilizing this comprehensive dataset, we aim to deeply understand and segment Siempre Tequila’s customer base, laying the groundwork for targeted sales strategies and marketing initiatives.
 
-## Disclaimer
-
-For this project, I made sure to protect the privacy of Siempre Tequila's customers and the company's intellectual property. I've either removed or made anonymous any personal information in the dataset we analyzed. The aim was to make sure we couldn't identify any customers directly and that any findings we shared didn't give away Siempre Tequila's confidential info. Keeping customer privacy and the company's intellectual property safe was a key priority throughout our analysis and in how we reported our findings.
-
 ## Project Steps:
 - **Imported Libraries**: Loaded Python libraries for data analysis and machine learning.
 - **EDA**: Conducted exploratory data analysis to understand data distributions.
@@ -51,6 +51,8 @@ For this project, I made sure to protect the privacy of Siempre Tequila's custom
 ## Imported Libraries
 
 ![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/Imported%20Libraries.png?raw=true)
+
+
 
 ## Cluster Profiles and Strategic Insights:
 
