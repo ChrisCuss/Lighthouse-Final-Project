@@ -12,6 +12,23 @@ The goal of this project is to boost Siempre Tequila's customer engagement and s
 ## Project Description:
 Facing challenges in engaging customers efficiently, this project seeks to leverage Siempre Tequila’s extensive dataset on customer transactions and sales. We will use unsupervised learning, specifically k-means clustering, to segment the customer base into unique groups characterized by their buying habits and preferences. This strategic segmentation will uncover various customer types, empowering the sales team to tailor their strategies and communications effectively for each group. The initiative is set to improve customer experiences, foster loyalty, and stimulate sales expansion by catering to the specific needs and preferences of each segment.
 
+## Technologies Used
+
+This project was built using the following technologies:
+
+- **Python**: Main programming language used for backend calculations and data processing.
+- **Pandas**: Utilized for data manipulation and analysis.
+- **NumPy**: Employed for numerical data operations.
+- **Scikit-learn**: Used for machine learning models and data preprocessing.
+- **Matplotlib** and **Seaborn**: For generating visualizations in the Jupyter Notebook.
+- **Jupyter Notebook**: Interactive computing and development environment.
+- **Git**: Version control system.
+- **GitHub**: For repository hosting.
+- **Visual Studio Code**: Preferred code editor.
+- **VIP/iDIG**: Main reporting tool for the Wine & Spirits industry in the USA.
+- **Tableau**: Tool for data visualization.
+- **Microsoft PowerPoint**: Used for creating the presentation slides.
+
 ## Data Utilization:
 To achieve our objectives, we will analyze Siempre Tequila’s rich customer and sales data, which includes:
 
@@ -83,7 +100,13 @@ By using the ''Elbow Method'', I was able to determine that the optimal amount o
 
 ![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/Running%20KMeans%20Clustering.png?raw=true)
 
-### 
+### Analyzing the Clusters
+
+Next, I took a look at the mean of each cluster and started creating customer profiles based on the results.
+
+![Alt Text](https://github.com/ChrisCuss/Lighthouse-Final-Project/blob/main/Images/Analyzing%20the%20Clusters.png?raw=true)
+
+# Key Findings and Data Vizualisation
 
 ## Cluster Profiles and Strategic Insights:
 
